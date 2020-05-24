@@ -1,12 +1,12 @@
 # Predicting Housing Prices using Regression
 
-*A machine learning model that is trained on California Housing Prices dataset from the StatLib repository.
+* A machine learning model that is trained on California Housing Prices dataset from the StatLib repository.
 
-*We are doing supervised learning here and our aim is to do predictive analysis.
+* We are doing supervised learning here and our aim is to do predictive analysis.
 
-*Our model will help us in predicting future housing prices.
+* Our model will help us in predicting future housing prices.
 
-*We’ll validate it against our test dataset.
+* We’ll validate it against our test dataset.
 
 ## The steps involved in the process are:
 
@@ -25,7 +25,7 @@
 7. Present our solution.
 
 ###Visualization of the features
-[!alt_text](https://github.com/sandeepan1999/Predicting-House-Prices/blob/master/scatter-plot.png)
+![alt_text](https://github.com/sandeepan1999/Predicting-House-Prices/blob/master/scatter-plot.png)
 
 ### Report
 
@@ -37,6 +37,6 @@
 
 * Test dataset score:
 
-| Mean          | Standard Deviation |
-| :-----------: |:-------------:| 
-| col 3 is      | right-aligned | 
+| Mean          | 
+| :-----------: |
+| 47310.59440646111      |
