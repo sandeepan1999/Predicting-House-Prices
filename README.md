@@ -24,10 +24,12 @@
 
 7. Present our solution.
 
-### Visualization of features
+
+## Visualization of features
 ![alt_text](https://github.com/sandeepan1999/Predicting-House-Prices/blob/master/scatter-plot.png)
 
-### Report
+
+## Report
 
 * Train dataset score (without fine-tuning):
 
