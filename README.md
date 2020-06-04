@@ -33,7 +33,7 @@ The Dataset taken is the California Housing Prices from the statlib repository. 
 # EDA
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights.
 
-![alt text](https://github.com/sandeepan1999/Predicting-House-Prices/blob/master/scatter_matrix.png "Scatter matrix")
+![alt text](https://github.com/sandeepan1999/Predicting-House-Prices/blob/master/scatter-matrix.png "Scatter matrix")
 
 ## Building Pipelines
 * Created CombinedAttributesAdder class which gives us the flexibility to add extra attributes to our pipeline.
